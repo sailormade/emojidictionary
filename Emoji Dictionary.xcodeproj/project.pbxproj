@@ -12,6 +12,7 @@
 		E57312EB1D8BF96E00E58723 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E57312E91D8BF96E00E58723 /* Main.storyboard */; };
 		E57312ED1D8BF96E00E58723 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E57312EC1D8BF96E00E58723 /* Assets.xcassets */; };
 		E57312F01D8BF96E00E58723 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E57312EE1D8BF96E00E58723 /* LaunchScreen.storyboard */; };
+		E57312F81D8C40B900E58723 /* DefenitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57312F71D8C40B900E58723 /* DefenitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E57312EC1D8BF96E00E58723 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E57312EF1D8BF96E00E58723 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E57312F11D8BF96E00E58723 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E57312F71D8C40B900E58723 /* DefenitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefenitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E57312E51D8BF96E00E58723 /* AppDelegate.swift */,
 				E57312E71D8BF96E00E58723 /* ViewController.swift */,
+				E57312F71D8C40B900E58723 /* DefenitionViewController.swift */,
 				E57312E91D8BF96E00E58723 /* Main.storyboard */,
 				E57312EC1D8BF96E00E58723 /* Assets.xcassets */,
 				E57312EE1D8BF96E00E58723 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E57312F81D8C40B900E58723 /* DefenitionViewController.swift in Sources */,
 				E57312E81D8BF96E00E58723 /* ViewController.swift in Sources */,
 				E57312E61D8BF96E00E58723 /* AppDelegate.swift in Sources */,
 			);
